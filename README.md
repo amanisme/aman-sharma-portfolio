@@ -7,7 +7,7 @@ Static GitHub Pages-ready portfolio website based on the provided resume PDF.
 - `index.html` - portfolio content and sections
 - `styles.css` - responsive cloud/backend themed styling
 - `script.js` - small header/year enhancement
-- `assets/cloud-backend-hero.png` - generated visual hero asset
+- `assets/cloud-backend-hero-optimized.jpg` - optimized visual hero asset
 - `assets/aman-sharma-resume.pdf` - resume download
 
 ## GitHub Pages
